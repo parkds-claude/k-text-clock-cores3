@@ -69,9 +69,13 @@ cd k-text-clock-cores3
 ## 데이터 출처와 저작권
 
 - 문장 데이터: [k-text-clock-web](https://github.com/parkds-claude/k-text-clock-web) — **CC BY-NC 4.0**
-- 수록 기준: **저자 사후 70년 이상 경과한 Public Domain 작품만** (대한민국 저작권법 기준)
-- 원문 출처: 위키문헌(ko.wikisource.org) 등 — 항목별 출처 URL은 데이터 레포의
-  `data/quotes_public.json` 각 항목 `source.url`에 기록
+- **한국문학** (기본 표시): 저자 사후 70년 이상 경과한 Public Domain 작품만
+  (대한민국 저작권법 기준). 원문 출처는 위키문헌(ko.wikisource.org) 등 —
+  항목별 URL은 데이터 레포의 `data/quotes_public.json` 각 항목 `source.url`에 기록
+- **영문 문학** (데이터 레포에 별도 수록): 고전 77건은
+  [Project Gutenberg](https://www.gutenberg.org) (Public Domain),
+  현대문학 1,709건은 [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock)
+  (CC BY-NC-SA 2.5, 영어 원문만) — 상세: [데이터 레포 data/en/README.md](https://github.com/parkds-claude/k-text-clock-web/blob/main/data/en/README.md)
 - 모든 문장은 화면에 작가·작품(`— 작가, 「작품」`)을 표기합니다
 - 출처 오류·저작권 문의: [데이터 레포 Issues](https://github.com/parkds-claude/k-text-clock-web/issues)
 

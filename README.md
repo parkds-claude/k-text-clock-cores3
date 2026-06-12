@@ -68,7 +68,7 @@ cd k-text-clock-cores3
 
 ## 데이터 출처와 저작권
 
-- 문장 데이터: [k-text-clock-web](https://github.com/parkds-claude/k-text-clock-web) — **CC BY 4.0**
+- 문장 데이터: [k-text-clock-web](https://github.com/parkds-claude/k-text-clock-web) — **CC BY-NC 4.0**
 - 수록 기준: **저자 사후 70년 이상 경과한 Public Domain 작품만** (대한민국 저작권법 기준)
 - 원문 출처: 위키문헌(ko.wikisource.org) 등 — 항목별 출처 URL은 데이터 레포의
   `data/quotes_public.json` 각 항목 `source.url`에 기록
@@ -83,4 +83,4 @@ cd k-text-clock-cores3
 ## 라이선스
 
 - 코드: [MIT](LICENSE)
-- 문장 데이터: CC BY 4.0 (데이터 레포 참조)
+- 문장 데이터: CC BY-NC 4.0 (데이터 레포 참조)
